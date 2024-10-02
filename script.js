@@ -65,6 +65,28 @@ const raceData = {
         "car": 1
       },
       "especialPorNivel": 3
+    },
+    "Anão": { // Elfo adicionado como exemplo
+      "vidaBase": 57,
+      "sanidadeBase": 15,
+      "especialBase": 0,
+      "armaduraBase": 2,
+      "movimentoBase": 4,
+      "bonusRace": "-",
+      "PassivaDisponivel": "Metamorfose duas vezes ao dia sem custo.",
+      "MagiaDisponivel": "-",
+      "TalentoDisponivel": "Escudos ou Espadas.",  
+      "vidaPorNivel": {
+        "for": 7,
+        "des": 3,
+        "con": 5
+      },
+      "sanidadePorNivel": {
+        "int": 2,
+        "sab": 2,
+        "car": 2
+      },
+      "especialPorNivel": 3
     }
   };
   
@@ -306,6 +328,8 @@ const raceData = {
       raceImage.src = "imagens/humano.png";
     } else if (race === "Krahzhik") {
       raceImage.src = "imagens/Krahzhik.png";
+    } else if (race === "Anão") {
+      raceImage.src = "imagens/Anão.png";
     } else {
       raceImage.src = ""; // Clear the image if no race is selected
     }
