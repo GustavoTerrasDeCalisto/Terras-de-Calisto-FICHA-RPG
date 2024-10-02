@@ -2,10 +2,11 @@
 
 ![Logo Terras de Calisto](https://terrasdecalistoficha.wordpress.com/wp-content/uploads/2024/06/logo-3.png?w=1024)
 
-
 ## Bem-vindo ao Sistema de Fichas de Terras de Calisto
 
 Este repositório contém o código-fonte do sistema de criação de fichas para o RPG **Terras de Calisto**, desenvolvido em HTML, CSS e JavaScript. Nosso objetivo é facilitar o processo de criação de personagens, proporcionando uma interface intuitiva e fácil de usar para todos os jogadores.
+
+### [Visite a Página Oficial do Terras de Calisto](https://terrasdecalistoficha.wordpress.com/)
 
 ### Nova Forma de Jogar RPG
 
@@ -27,16 +28,6 @@ O **Terras de Calisto** é um sistema de RPG de mesa que busca proporcionar uma 
 - Interface intuitiva e responsiva para jogadores de todos os níveis.
 - Sistema de atributos, magias e passivas, alinhado com o universo das Terras de Calisto.
 - Totalmente desenvolvido em **HTML**, **CSS** e **JavaScript**.
-
-### Como Contribuir
-
-Este é um projeto em andamento e qualquer tipo de contribuição é bem-vinda. Se você deseja contribuir com melhorias no código, novos recursos ou relatórios de bugs, siga os passos abaixo:
-
-1. Faça um fork do projeto.
-2. Crie uma nova branch (`git checkout -b feature/nome-da-feature`).
-3. Commit suas alterações (`git commit -m 'Adiciona nova feature'`).
-4. Faça o push para a branch (`git push origin feature/nome-da-feature`).
-5. Abra um Pull Request.
 
 ### Como Executar o Projeto Localmente
 
