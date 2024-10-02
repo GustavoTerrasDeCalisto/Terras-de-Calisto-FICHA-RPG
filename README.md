@@ -8,6 +8,8 @@ Este repositório contém o código-fonte do sistema de criação de fichas para
 
 ### [Visite a Página Oficial do Terras de Calisto](https://terrasdecalistoficha.wordpress.com/)
 
+### [Acesse o Sistema de Fichas - Página no Netlify](https://66fc93210c21d7129d4deabe--super-semifreddo-7298a0.netlify.app/)
+
 ### Nova Forma de Jogar RPG
 
 Terras de Calisto é uma proposta inovadora de RPG de mesa, ambientada em um mundo fantasioso e distópico. Neste sistema, os jogadores são incentivados a liberar toda sua criatividade ao criar personagens únicos, escolher entre diversas raças, definir um passado intrigante e, ao longo da jornada, desenvolver habilidades mágicas, adquirir equipamentos poderosos e desbloquear passivas exclusivas.
